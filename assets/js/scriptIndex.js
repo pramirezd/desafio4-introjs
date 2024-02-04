@@ -1,8 +1,6 @@
 import { propiedades_venta } from './arraysPropiedades.js';
 import { propiedades_alquiler } from './arraysPropiedades.js';
 
-console.log('El archivo JS se ha cargado correctamente') 
-
 const propiedadesVentaIndex = document.querySelector("#propiedades-venta-index");
 
 for (let i = 0; i < 3; i++) {
